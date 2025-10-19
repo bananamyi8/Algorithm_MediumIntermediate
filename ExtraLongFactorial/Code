@@ -15,7 +15,6 @@ using System.Numerics;
 
 class Result
 {
-
     /*
      * Complete the 'extraLongFactorials' function below.
      *
